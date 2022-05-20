@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: green;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#message-el {
+    color: white;
+    font-style: italic;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+button {
+    background: goldenrod;
+    color: #016f32;
+    width: 150px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+}
